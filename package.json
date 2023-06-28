@@ -1,0 +1,11 @@
+{
+  "name": "mammal-backend",
+  "version": "1.0.0",
+  "description": "Mammal backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicorgi",
+  "license": "ISC"
+}
